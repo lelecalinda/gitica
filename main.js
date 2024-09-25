@@ -8,9 +8,9 @@ function quadrado(num1) {
 }
 console.log(quadrado(2));
 
-let media=function ( ){ 
+let media = function (n1, n2, n3){ 
 
-     return
+     return (n1 + n2 + n3) / 3;
 }
-console.log( );
+console.log(media(6, 5, 3));
 
