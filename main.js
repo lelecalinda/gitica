@@ -10,7 +10,7 @@ console.log(quadrado(2));
 
 let media = function (n1, n2, n3){ 
 
-     return (n1 + n2 + n3) / 3;
+     return (n1 + n2 + n3) / 2;
 }
-console.log(media(6, 5, 3));
+console.log(media(6, 4, 2));
 
