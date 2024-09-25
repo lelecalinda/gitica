@@ -14,5 +14,5 @@ let media = function (n1, n2, n3){
 }
 console.log(media(6, 4, 2));
 
-let nome=prompt('')
+let nome=prompt('qual é a media?')
 document.write()
