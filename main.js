@@ -15,4 +15,4 @@ let media = function (n1, n2, n3){
 console.log(media(6, 4, 2));
 
 let numero=prompt("qual a sua idade?")
- document.write()
+ document.write(13)
