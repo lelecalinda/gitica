@@ -28,4 +28,11 @@
 // }
 // console.log(Media(2,3,10))
 
-let estados= ['PR','RS', 'SP', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA','MT', 'MS', 'MG', 'PA', 'PB', 'PE','PI', 'RJ','RN','RO', 'RR','SC','SE','TO','DF']  
+let estados= ['PR','RS', 'SP', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA','MT', 'MS', 'MG', 'PA', 'PB', 'PE','PI', 'RJ','RN','RO', 'RR','SC','SE','TO','DF'] 
+
+let i=0;
+while(i<5){
+    i=i=1;
+    console.log(1);
+
+ }
