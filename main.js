@@ -32,7 +32,19 @@ let estados= ['PR','RS', 'SP', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', '
 
 let i=0;
 while(i<5){
-    i=i+1;
+
     console.log(1);
+
+    console.log(i);
+
+    i = i++;
+
+ }
+
+ for (ler i =0; i < estados.length; i++) {
+
+    console.log(i);
+
+    console.log(estados[i]);
 
  }
