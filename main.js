@@ -32,7 +32,7 @@ let estados= ['PR','RS', 'SP', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', '
 
 let i=0;
 while(i<5){
-    i=i=1;
+    i=i+1;
     console.log(1);
 
  }
