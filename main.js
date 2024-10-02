@@ -31,7 +31,7 @@
 let estados= ['PR','RS', 'SP', 'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'ES', 'GO', 'MA','MT', 'MS', 'MG', 'PA', 'PB', 'PE','PI', 'RJ','RN','RO', 'RR','SC','SE','TO','DF'] 
 
 let i=0;
-while(i<5){
+while(i<estados.length){
 
     console.log(1);
 
